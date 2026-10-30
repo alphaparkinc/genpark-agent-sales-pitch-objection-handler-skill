@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-sales-pitch-objection-handler-skill",
+  "version": "1.0.0",
+  "description": "Enterprise B2B sales proposal and objection handling synthesizer framing ROI metrics and mitigations",
+  "mcp": {
+    "server": "mcp_server.py",
+    "tools": [
+      "generate_sales_pitch"
+    ]
+  }
+}
